@@ -8,3 +8,4 @@
 | M1 등가회로 | $V = e_{rev} + I R_i$ (선형) | Beainy 외(2014) §III |
 | M2 반경험 전기화학 | 가역전압 + 활성화(asinh) + 옴 + 농도 손실, 패러데이 효율 | Espinosa-López 외(2018) §3 |
 | M3 동적 | M2 + 열수지, 산소 쪽 분리기 물질수지, 막 박화, 탱크 | [막 열화](advanced-electrochem/01-membrane-degradation.md)·[기체 동역학](advanced-electrochem/02-gas-dynamics-safety.md), [통합 모델](advanced-electrochem/08-integrated-model.md) |
+| M3 + BOP (확장) | M3 + 펌프·냉각·전력변환·대기전력 소비. 스택 효율이 아니라 **시스템 효율**로 비교 | [시스템 효율과 BOP](04-balance-of-plant.md) |

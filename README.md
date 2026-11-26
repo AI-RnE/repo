@@ -24,6 +24,7 @@
 | [`docs/study-plan.md`](docs/study-plan.md) | 학습 목표·순서, 모델링 원칙, 주의사항 |
 | [`docs/references.md`](docs/references.md) | 참고 자료와 활용 방법 |
 | [`docs/electrochem-model.md`](docs/electrochem-model.md) | 전기화학 심화 모델 설계 |
+| [`docs/math-model.md`](docs/math-model.md) | 수학적 모델링: 확률분포, 민감도, 구간별 선형 근사 |
 
 ## 저장소 구조
 
